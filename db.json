@@ -1,0 +1,12 @@
+{
+    "burgers" : [
+        {
+            "id" : 0,
+            "name" : "Tribute Burger"
+        },
+        {
+            "id" : 1,
+            "name" : "Pulled Mooshie"
+        }
+    ]
+}
